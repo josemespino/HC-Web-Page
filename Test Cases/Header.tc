@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Visualizar un logo de HandCloud
+2. Opciones del menú
+2.1 Sobre Nosotros
+2.2 Soluciones
+2.2.1 Soluciones de ServiceNow
+2.2.2 Consultoria de procesos
+2.2.3 Aplicaciones de negocio 
+2.2.4 Profesionales de TI
+2.3 One More Thing 
+2.3.1 Virtual Agent
+2.3.2 Predective Intelligence
+2.3.3 Service Portal 
+2.3.4 Back to the Box
+2.4 Únete
+2.5 Contáctanos
+2.6 Boton de  idioma
+3. Hacer click en el logo de Handcloud
+4.Hacer hover y click sobre las opciones del menú
+5. Hacer click sobre el boton de idioma.
+
+Resultado esperado
+
+Al hacer clik sobre el logo de handcloud este te enviara a la pagina de inicio, al hacer hover sobre todas las opciones del menú se mostrara una linea roja bajo lo seleccionado o desplegara las opciones del menú, al hacer hover sobre lo desplegado cambiara de color lo seleccionado, Al hacer click sobre las opciones del menú te enviaran a la página seleccionada, Al hacer click sobre el botón de idioma, se cambiara el idioma de la página y la etiqueta del idioma cambiara al idioma seleccionado.</description>
+   <name>Header</name>
+   <tag>Header</tag>
+   <comment></comment>
+   <testCaseGuid>746cffff-8d45-4041-8d73-53b9354bdb70</testCaseGuid>
+</TestCaseEntity>
